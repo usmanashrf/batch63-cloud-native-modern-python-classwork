@@ -50,7 +50,7 @@ An operating system is software that acts as an intermediary between the user an
 - **macOS**
 - **Linux**
 
-    
+
 ## What is Linux?
 
 Linux is an open-source, Unix-like operating system kernel first released by Linus Torvalds in 1991. Known for its stability, security, and flexibility, Linux is widely used in servers, desktops, and embedded systems. It serves as the core of various Linux distributions (distros) like Ubuntu, Fedora, CentOS, and Debian.
@@ -72,3 +72,26 @@ Linux is an open-source, Unix-like operating system kernel first released by Lin
 Overall, Linux powers about 90% of all cloud infrastructure, driven by performance, cost-effectiveness, and extensive open-source tools.
 
 
+
+## What is a Cloud?
+
+The "cloud" refers to servers that are accessed over the Internet, along with the software and databases that run on those servers. Cloud servers are located in data centers all over the world. By using the cloud, you can access these servers and the resources they offer from anywhere with an internet connection. This is beneficial for storing and managing data, running applications, and using services without having to manage physical hardware.
+
+## What are Servers?
+
+A server is a powerful computer that provides data, services, or resources to other computers, known as clients, over a network. Servers can perform various tasks, such as:
+
+- **Hosting websites:** A web server stores the files for one or more websites and delivers them to users' browsers.
+- **Running applications:** An application server provides software applications that clients can use.
+- **Storing data:** A file server stores files and makes them accessible to clients.
+
+## What are Client Machines?
+
+Client machines, or simply clients, are the devices that people use to interact with servers. These devices can include:
+
+- Personal computers (PCs)
+- Laptops
+- Smartphones
+- Tablets
+
+![Cloud](./cloud.png)
