@@ -51,5 +51,24 @@ An operating system is software that acts as an intermediary between the user an
 - **Linux**
 
     
+## What is Linux?
+
+Linux is an open-source, Unix-like operating system kernel first released by Linus Torvalds in 1991. Known for its stability, security, and flexibility, Linux is widely used in servers, desktops, and embedded systems. It serves as the core of various Linux distributions (distros) like Ubuntu, Fedora, CentOS, and Debian.
+
+### Key Features
+
+- **Open Source**: Released under the GNU General Public License (GPL), allowing free use, modification, and distribution.
+- **Security**: Known for robust security features.
+- **Flexibility**: Can be used in a wide range of systems, from servers to desktops to embedded systems.
+- **Stability and Performance**: Reliable performance in various environments.
+- **Community Support**: Strong community support with extensive documentation and forums.
+
+### Usage in Cloud Infrastructure
+
+- **AWS**: Linux instances comprise around 92% of AWS's total instances (2020, CNCF).
+- **Google Cloud**: Over 90% of Google's cloud infrastructure runs on Linux.
+- **Microsoft Azure**: Linux-based instances account for around 60% of Azure's workload (2019).
+
+Overall, Linux powers about 90% of all cloud infrastructure, driven by performance, cost-effectiveness, and extensive open-source tools.
 
 
