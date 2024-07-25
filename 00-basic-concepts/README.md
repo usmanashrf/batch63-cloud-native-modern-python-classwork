@@ -98,6 +98,26 @@ Client machines, or simply clients, are the devices that people use to interact 
 - Tablets
 
 -----
-# **Software Development Cycle**
+## **Software Development Cycle**
 
 ![Lifecycle](./images/lifecycle.png)
+
+---
+
+## Challenges for Developers
+
+#### 1. Environment Inconsistencies
+Applications often behave differently on developers' machines, staging servers, and production servers due to variations in software versions, configurations, and dependencies.
+
+#### 2. Dependency Conflicts
+Multiple projects on the same machine could have conflicting dependencies, leading to complex and error-prone setup processes.
+
+#### 3. Complex Deployment
+Deploying applications involves manual steps, complex scripts, and varying setups for different environments, leading to errors and inefficiencies.
+
+#### 4. Resource Overhead
+Traditional VMs require separate operating systems, leading to high resource consumption and slow startup times.
+
+#### 5. Scalability Challenges
+Scaling applications often require complex configurations and management of multiple instances.
+
