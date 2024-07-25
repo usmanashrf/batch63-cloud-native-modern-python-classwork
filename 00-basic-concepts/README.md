@@ -124,3 +124,10 @@ Scaling applications often require complex configurations and management of mult
 ----
 # Docker
 ![Lifecycle](./images/Docker.png)
+# What is Docker?
+ ***It's an open-source project that automates the deployment of software applications inside containers by providing an additional layer of abstraction and automation of OS-level virtualization on Linux.***
+
+In simple words **Docker** is a tool that makes it easy to create, deploy, and run applications by using containers. **Containers** are like lightweight, portable virtual machines that can run on any computer with the same behavior.
+
+**Container:** Think of it as a box that holds your application and everything it needs to run, such as libraries and dependencies. This box can be moved around and will work the same everywhere.
+
