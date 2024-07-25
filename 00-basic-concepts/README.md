@@ -74,7 +74,7 @@ Overall, Linux powers about 90% of all cloud infrastructure, driven by performan
 
 ----------------------------------------------------------
 
-![Cloud](./cloud.png)
+![Cloud](./images/cloud.png)
 
 ## What is a Cloud?
 
@@ -97,3 +97,7 @@ Client machines, or simply clients, are the devices that people use to interact 
 - Smartphones
 - Tablets
 
+-----
+# **Software Development Cycle**
+
+![Lifecycle](./images/lifecycle.png)
