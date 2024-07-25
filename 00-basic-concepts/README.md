@@ -121,3 +121,6 @@ Traditional VMs require separate operating systems, leading to high resource con
 #### 5. Scalability Challenges
 Scaling applications often require complex configurations and management of multiple instances.
 
+----
+# Docker
+![Lifecycle](./images/Docker.png)
