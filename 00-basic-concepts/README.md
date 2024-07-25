@@ -156,5 +156,19 @@ Think of it as a box that holds your application and everything it needs to run,
 
 Containers are a key component of modern app development. They are executable units of software that contain all the necessary elements to run in any environment. Containers can virtualize the operating system and run anywhere, from a private data center to the public cloud or even on a developer's personal laptop.
 
+## What is a Docker Image?
+A Docker image serves as a blueprint for creating Docker containers. It defines what the container will contain and how it will behave
+
+**Layers:**
+ Docker images are made up of a series of layers. Each layer represents a change or addition, such as installing a package or adding a file. Layers are stacked on top of each other, and only changes are stored, making images efficient.
+
+**Read-Only:** Once created, an image is immutable (read-only). This ensures that the image remains consistent and unchanged across different environments.
+
+A Docker container is a running instance of a Docker image. It is created from an image and runs as an isolated process on the host system.
+When a container is created, it uses the layers from the Docker image. A writable layer is added on top of these read-only layers, allowing the container to modify files and directories as it runs.
+
+![docker_image](./images/docker_image_container.png)
+
+
 ## Summary
 Docker revolutionized the way developers build, ship, and run applications by providing a lightweight, portable, and consistent environment. It resolves many of the challenges faced in traditional development and deployment processes, making it a valuable tool for modern software development.
