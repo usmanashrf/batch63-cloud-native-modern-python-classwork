@@ -12,6 +12,11 @@ docker build -f Dockerfile -t my-first-image .
 docker images
 ```
 ### Running the Container:
+first way
+```bash
+docker run --name first-cont1 my-first-image
+```
+second way
 ```bash
 docker run -d --name first-cont1 my-first-image
 ```
