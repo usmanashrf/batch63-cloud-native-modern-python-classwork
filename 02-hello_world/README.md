@@ -5,7 +5,7 @@ docker version
 ```
 ### Building the Image for Dev:
 ```bash
-docker build -f Dockerfile -t my-dev-image .
+docker build -f Dockerfile -t my-first-image .
 ```
 ### Check Images:
 ```bash
@@ -13,5 +13,5 @@ docker images
 ```
 ### Running the Container:
 ```bash
-docker run -d --name dev-cont1 my-dev-image
+docker run -d --name first-cont1 my-first-image
 ```
