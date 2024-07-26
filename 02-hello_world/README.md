@@ -13,5 +13,5 @@ docker images
 ```
 ### Running the Container:
 ```bash
-docker run -d --name dev-cont1 -p 8000:8000 my-dev-image
+docker run -d --name dev-cont1 my-dev-image
 ```
