@@ -29,8 +29,7 @@ docker run -d --name first-cont1 my-first-image
 ```bash
 FROM python:3.12
 ```
-This line tells Docker to use the Python 3.12 image as the base for your container. It’s like starting with a clean computer that already has Python 3.12 installed.
-
+This line tells Docker to use the Python 3.12 image as the base for your container. This image already includes a minimal operating system along with Python 3.12 installed. So, you don’t need to install an operating system separately.
 ### Set Up Working Directory:
 ```bash
 WORKDIR /app
