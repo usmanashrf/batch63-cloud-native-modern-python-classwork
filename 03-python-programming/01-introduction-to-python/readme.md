@@ -44,9 +44,7 @@ There are two main ways to convert a program from a high-level language to machi
 
 2. **Interpretation**: The source code is translated into machine code every time it is run. The tool that performs this task is called an interpreter. This means you need to provide the source code and the interpreter to the end-user since the code is interpreted each time it is executed.
 
-## 1.5 Setting up Coding Environment
-1. **Python Installation**:  [Download](https://www.python.org/downloads/) and install Python.
-2. [Download](https://code.visualstudio.com/download) and install Visual Studio Code (an IDE). 
+
 
 # 2. Data Types in Python
 ## 2.1 Primitive Data Types
