@@ -39,7 +39,7 @@ PI = 3.14159
 
 ### 5. Class Names
 
-- Class names should follow the CapWords convention (also known as CamelCase).
+- Class names should follow the CapWords convention (also known as PascalCase).
 
 ```python
 class MyClass:
