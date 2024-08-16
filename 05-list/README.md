@@ -67,6 +67,18 @@ print(students)      # Output: ["Rehan", "Muzhar", "Ibtisam"]
 # Remove a specific student by name
 students.remove("Rehan")
 print(students)  # Output: ["Muzhar", "Ibtisam"]
+
+
+
+# Initial list of students
+students: list[str] = ["Rehan", "Muzhar", "Ibtisam"]
+
+# New students to be added
+new_students: list[str] = ["Usman", "Ahmed"]
+
+# Extend the original students list with the new students
+students.extend(new_students)
+
 ```
 
 ---
