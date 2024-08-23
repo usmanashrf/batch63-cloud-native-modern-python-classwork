@@ -7,7 +7,7 @@ The continue and break statements are control flow tools in Python that allow yo
 
 The break statement is used to exit a loop immediately, regardless of the loop’s condition. When break is encountered, the loop terminates, and the program continues with the next statement after the loop.
 
-*** Use in a for Loop ***
+***Use in a for Loop***
 
 ```
 for i in range(1, 11):
@@ -16,7 +16,7 @@ for i in range(1, 11):
     print(i)
 ```
 
-*** Use in a while Loop ***
+***Use in a while Loop***
 
 ```
 count = 0
@@ -32,7 +32,7 @@ while count < 10:
 
 The continue statement is used to skip the current iteration of a loop and proceed with the next iteration. When continue is encountered, the loop doesn’t terminate; it just skips the remaining code in the current iteration and moves on to the next iteration.
 
-***Use in a for Loop ***
+***Use in a for Loop***
 ```
 for i in range(1, 6):
     if i == 3:
