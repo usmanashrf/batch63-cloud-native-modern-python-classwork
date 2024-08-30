@@ -1,6 +1,6 @@
 # For Loop
 
-The for loop is used to iterate over a sequence (like a list, tuple, dictionary, set, or string) or any other iterable object. It allows you to execute a block of code a specific number of times, usually determined by the length of the sequence or the range of values.
+The for loop is used to iterate over a sequence (like a list, tuple, set, or string) or any other iterable object. It allows you to execute a block of code a specific number of times, usually determined by the length of the sequence or the range of values.
 
 ### Syntax
 

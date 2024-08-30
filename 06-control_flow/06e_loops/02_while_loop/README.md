@@ -1,3 +1,15 @@
+# The While Loop:
+
+```json
+while you have peanuts
+    keep eating
+```
+- `while` and `if` both checks the conditions. If the condition is met (`True`), the instructions in `if` block exeuctures only once. However, in `while`, if the condition is met (`True`), the instructions in the `while` block runs more than once. 
+
+- If condition evaluates to `False` the instuctions in the block never runs. 
+
+- There should be a mechanism in the body to change the condition value. Otherwise the body will keep executing forever. 
+
 ## Situation
 You have a class that runs until 6 PM. During this time, you want to keep learn Python. You don’t want to stop coding until the clock hits 6 PM.
 
