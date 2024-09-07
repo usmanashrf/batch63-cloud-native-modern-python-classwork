@@ -2,7 +2,7 @@
 In this section, we'll learn about parameterless and parameterized functions. 
 
 ## What are function parameters?
-So far we learnt that functions perform a specific task. To perform the task, in some cases, function need some inputs/data and in other cases, it doesn't.
+So far we learnt that functions perform a specific task. To perform the task, in some cases, function needs some inputs/data and in other cases, it doesn't.
 - Parameters simply can be said the inputs/data required by the function to perform a specific task. 
 - The inputs/data is provided from outside the function but we have to mention them while defining the functions. 
 - Parameters only exist inside the function.
@@ -35,8 +35,8 @@ greetings(my_name) #Output: Hello Rehan!
 - `my_name` is the argument provided at the time of function invokation.
 
 ## What are Arguments?
-Arguments are carriers of values passed to corresponding
-parameters at thet ime of function invokation.
+Arguments are the actual values you pass to a function when you call it. These values get assigned to the function’s parameters.
+
 ```python
 greetings("Rehan") 
 ```
