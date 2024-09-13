@@ -1,4 +1,4 @@
-
+# Classes:
 Imagine we’re trying to categorize everything in the world into two main groups:
 
 Living Things: Things that are alive, like humans, animals, and plants.
@@ -53,6 +53,7 @@ __init__ is a special method called a constructor. This method is automatically 
 It initializes the object's attributes (or properties) — name, age, and gender in this case.
 
 **Parameters:**
+
 self: Refers to the instance (or object) of the class. It allows the object to reference its own attributes and methods. Every method in a class must have self as the first parameter.
 name, age, gender: These are the parameters passed to the constructor when creating an object of the Human class.
 
@@ -62,10 +63,12 @@ In Python, every method in a class must include self as the first parameter. Thi
 
 
 **def speak(self):**
+
 This defines a method named speak that is part of the Human class. Methods are functions that belong to a class and define actions the objects of the class can perform.
 The speak method allows the Human object to "speak" by printing a message.
 
-***person = Human("Alice", 25, "Female")**
+**person = Human("Alice", 25, "Female")**
+
 This creates an instance (or object) of the Human class.
 Human("Alice", 25, "Female") calls the __init__ method, passing "Alice", 25, and "Female" as arguments. These values will be used to initialize the attributes of the person object.
 After this line, the object person has the following attributes:
