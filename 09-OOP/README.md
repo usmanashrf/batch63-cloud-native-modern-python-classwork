@@ -6,7 +6,7 @@ When you start learning to code, you’ve likely started with Procedural Program
 
 Procedural programming is the approach most beginners take when they first learn to code. It focuses on writing step-by-step instructions for the computer to follow. In this style, your program is essentially a series of commands and functions that perform actions on data.
 
-** Key Features of Procedural Programming:**
+**Key Features of Procedural Programming:**
 
 - Functions: The main building blocks are functions. Each function performs a specific task, like adding two numbers, printing a message, or looping through data.
 - Sequential Execution: The program runs in a top-down manner, following the order of functions and instructions.
