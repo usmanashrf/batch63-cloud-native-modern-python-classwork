@@ -81,11 +81,11 @@ class Car:
     def __init__(self, model, horsepower, wheel_size):
         self.model = model
         self.engine = Engine(horsepower)  # Car has-an Engine
-        self.wheels = [Wheel(wheel_size) for _ in range(4)]  # Car has four Wheels
+        self.wheels = Wheel(wheel_size)  # Car has four Wheels
     
     def drive(self):
         self.engine.start()
-        print(f"{self.model} with {self.wheels[0].size}-inch wheels is now driving.")
+        print(f"{self.model} with {self.wheels}-inch wheels is now driving.")
 
 my_car = Car("Ford Mustang", 450, 19)
 my_car.drive()
