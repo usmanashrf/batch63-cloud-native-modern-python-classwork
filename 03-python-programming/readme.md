@@ -58,9 +58,9 @@ There are two main ways to convert a program from a high-level language to machi
 
 # 2. Data Types in Python
 
-## 2.1 Primitive Data Types
+## 2.1  Data Types
 
-Primitive Types are the kind of data that can be stored in computer's memory. In Python, primitive types are the most basic data types that are built into the language.
+Those kinds of data can be stored in the computer's memory. In Python, primitive types are the most basic data types built into the language.
 
 - String -> `str`
 - Integer -> `int`
