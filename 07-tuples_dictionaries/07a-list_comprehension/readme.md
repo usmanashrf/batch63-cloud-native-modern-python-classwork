@@ -2,7 +2,7 @@
 
 ## What is List Comprehension?
 
-List comprehension is a concise way to create lists in Python. It allows we to generate a new list by applying an expression to each item in an existing iterable (such as a list, tuple, or range) and optionally applying a condition to filter the items.
+List comprehension is a concise way to create lists in Python. It allows us to generate a new list by applying an expression to each item in an existing iterable (such as a list, tuple, or range) and optionally applying a condition to filter the items.
 
 ## Why Do We Need List Comprehensions?
 
